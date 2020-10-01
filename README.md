@@ -9,7 +9,7 @@ in campus at [xLab - Interaction Lab](http://xlab.yasar.edu.tr)
 online classes in Microsoft Teams
 
 ## Description
-This course introduces to the field of interaction design. Interaction design is "about shaping our everyday life through digital artifacts for work, for play, and for entertainment". From sketches to digital prototypes the students will be challenged by the aim of using "these expressive languages to develop a much richer digital environments for their fellow citizen".
+This course introduces to the field of interaction design. Interaction design is "about shaping our everyday life through digital artifacts for work, for play, and for entertainment". From sketches to digital prototypes the students will be challenged by the aim of using "these expressive languages to develop a much richer digital environments for their fellow citizen" (Crampton Smith 2018).
 
 ## Content
 This introduction to design for computational media with an ecological interaction perspective. Students will learn the methods and the qualities of interaction design by applying them directly to design projects and training exercises.
