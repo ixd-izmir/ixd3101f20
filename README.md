@@ -60,7 +60,7 @@ Cooper, A. and Reimann, R. and Cronin, D. and Noessel, C. (2014) About Face: The
 | 2 | [Oct 12<br>Mon]() |  | |
 | 2 | [Oct 15<br>Thu]() | | |
 | 3 | [Oct 19<br>Mon]() |  | |
-| 3 | [Oct 22<br>Thu] ()| | |
+| 3 | [Oct 22<br>Thu]()| | |
 | 4 | [Oct 26<br>Mon]() |  | |
 | 4 | [Oct 29<br>Thu]() | | |
 | 5 | [Nov 2<br>Mon]() |  | |
