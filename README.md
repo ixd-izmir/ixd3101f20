@@ -3,11 +3,8 @@ Syllabus for Yasar University 3rd Year VCD Studio on Interaction Design, Fall 20
 
 Lecturers
 Ceren Kayalar (cerenk at gmail dot com)
-
 Daniele Savasta (daniele dot savasta at gmail dot com)
-
 Doruk Türkmen (drkturkmen2 at gmail dot com)
-
 in campus at [xLab - Interaction Lab](http://xlab.yasar.edu.tr)
 online classes in Microsoft Teams
 
