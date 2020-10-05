@@ -55,10 +55,10 @@ Cooper, A. and Reimann, R. and Cronin, D. and Noessel, C. (2014) About Face: The
 
 | Week | Date | Subjects | Assignments Due |
 |:---:|:-------------|:-------------| -----:|
-| 1 | [Oct 5<br>Mon]() | WhatIsIxD p1 | |
+| 1 | [Oct 5<br>Mon]() | WhatIsIxD p1 | **P0: Typographical poster with p5js** Research, Moodboard, Sketches, Color, Palette |
 | 1 | [Oct 8<br>Thu]() | | |
 | 2 | [Oct 12<br>Mon]() |  | |
-| 2 | [Oct 15<br>Thu]() | | |
+| 2 | [Oct 15<br>Thu]() | P0 submission | |
 | 3 | [Oct 19<br>Mon]() |  | |
 | 3 | [Oct 22<br>Thu]()| | |
 | 4 | [Oct 26<br>Mon]() |  | |
