@@ -9,7 +9,7 @@ Keyfigures: Gillian Crampton-Smith, Bill Moggrdige, Bill Verplank, Donald Norman
 - [Bill Veplank, Interaction Design, from Designing Interaction](https://vimeo.com/83683447)
 
 ## Collaborating and sketching online
-Sneakpeak at Invision
+Tools for collaboration and development as Invision
 
 ## P0 Generative Typography
 P0 Launch
