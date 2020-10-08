@@ -16,7 +16,7 @@ Prepare a presentation (1920x1080px) including all the work done so far in a sin
 
 From now on you will keep updating the same pdf including more slide and new work and increasing the version and last update date.
 
-Suggestions and notes:
+**Suggestions and notes:**
 - Desktop Publishing tools like [Adobe Indesign](https://www.adobe.com/products/indesign.html), [Affinity Publisher](https://affinity.serif.com/en-gb/publisher/), [Scribus](https://www.scribus.net) offer an environment that facilitate your presentation preparation. Microsoft PowerPoint is banned.
 - The language of the presentation doesn't need to confrom to the content of the presentation, the presentation layer should disappear in the background and your work should be appearing more visible.
 
@@ -25,6 +25,15 @@ Suggestions and notes:
 - Find three works of your interest from the website: [dada.compart-bremen.de](http://dada.compart-bremen.de)
 - Write the title of the works you chose newxt to your name on [this]() gdrive sheet.
 - Extend your research online about the artwork and artist.
-- Add three slide to the presentation prepared presenting the three artworks (one slide per artwork)
+- Add three slide to the presentation prepared before presenting the three artworks (one slide per artwork)
 - Include in each slide the title of the project, the artist, the year, a short explanation, a brief personal comment.
 - Upoad on gdrive by 14.30.
+
+## Review (30m)
+Review of the presentation in order of gdrive requests (only 6 students).
+5 minutes
+
+
+## Sketch coding (30m)
+Q&A on p5.js
+Free development
