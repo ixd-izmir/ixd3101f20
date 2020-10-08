@@ -16,6 +16,8 @@ Prepare a presentation (1920x1080px) including all the work done so far in a sin
 
 From now on you will keep updating the same pdf including more slide and new work and increasing the version and last update date.
 
+Upload on gdrive at 14.30.
+
 **Suggestions and notes:**
 - Desktop Publishing tools like [Adobe Indesign](https://www.adobe.com/products/indesign.html), [Affinity Publisher](https://affinity.serif.com/en-gb/publisher/), [Scribus](https://www.scribus.net) offer an environment that facilitate your presentation preparation. Microsoft PowerPoint is banned.
 - The language of the presentation doesn't need to confrom to the content of the presentation, the presentation layer should disappear in the background and your work should be appearing more visible.
