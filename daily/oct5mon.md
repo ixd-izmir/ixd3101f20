@@ -16,7 +16,8 @@ Tools for collaboration and development as Invision
 P0 Launch
 
 ## A "contemporary" coding environment
-Setting up P5.js
+Setting up P5.js 
+- [p5js structure](https://www.luisapereira.net/teaching/materials/processing-foundation)
 
 
 ### Extras
