@@ -40,7 +40,7 @@ Cooper, A. and Reimann, R. and Cronin, D. and Noessel, C. (2014) About Face: The
 
 **Recommended Reading**
 
-[**Extended bibliography**](https://github.com/ixd-izmir/ixd3102f19/blob/master/extendedBibliography.md)
+[**Extended bibliography**](https://github.com/ixd-izmir/ixd3101f18/blob/master/extendedBibliography.md)
 
 ## Assessment
 
