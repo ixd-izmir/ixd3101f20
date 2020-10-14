@@ -8,7 +8,7 @@
 
 ## Research (30m)
 ### Presentation
-Prepare a presentation (1920x1080px) including all the work done so far in a single .pdf
+Prepare a presentation (1920x1080px) including all the work done so far in a single .pdf not more than 2MB (to compress your files: [https://smallpdf.com/compress-pdf](https://smallpdf.com/compress-pdf)) 
 - In the first slide include the title of the project, your name, the class, department and University, the date of creation, the date of last update, the version.
 - In the second slide include a table of content, what is included in the presentation.
 - In the last slide include a photo of yourself, your name and a short biography, a "thank you" here would be nice.
