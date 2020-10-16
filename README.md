@@ -57,8 +57,8 @@ Cooper, A. and Reimann, R. and Cronin, D. and Noessel, C. (2014) About Face: The
 |:---:|:-------------|:-------------| -----:|
 | 1 | [Oct 5<br>Mon](daily/oct5mon.md) | WhatIsIxD <br> p5js | **P0:** Typographical poster with p5js <br> Research, Moodboard, Sketches, Color, Palette |
 | 1 | [Oct 8<br>Thu](daily/oct8thu.md) | | |
-| 2 | [Oct 12<br>Mon]() |  | |
-| 2 | [Oct 15<br>Thu]() |  | |
+| 2 | [Oct 12<br>Mon](daily/oct12mon.md) |  | |
+| 2 | [Oct 15<br>Thu](daily/oct15thu.md) |  | |
 | 3 | [Oct 19<br>Mon]() | P0 submission | |
 | 3 | [Oct 22<br>Thu]()| | |
 | 4 | [Oct 26<br>Mon]() |  | |
