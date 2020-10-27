@@ -59,32 +59,32 @@ Cooper, A. and Reimann, R. and Cronin, D. and Noessel, C. (2014) About Face: The
 | 1 | [Oct 8<br>Thu](daily/oct8thu.md) | | |
 | 2 | [Oct 12<br>Mon](daily/oct12mon.md) |  | |
 | 2 | [Oct 15<br>Thu](daily/oct15thu.md) |  | |
-| 3 | [Oct 19<br>Mon]() | | |
-| 3 | [Oct 22<br>Thu]()| [P0 crit](projects/p0.md) | |
-| 4 | [Oct 26<br>Mon]() |  | |
-| 4 | [Oct 29<br>Thu]() | | |
-| 5 | [Nov 2<br>Mon]() |  | |
-| 5 | [Nov 5<br>Thu]() | | |
-| 6 | [Nov 9<br>Mon]() |  | |
-| 6 | [Nov 12<br>Thu]() | | |
-| 7 | [Nov 16<br>Mon]() |  | |
-| 7 | [Nov 19<br>Thu]() | | |
-| 8 | [Nov 23<br>Mon]() |  | |
-| 8 | [Nov 26<br>Thu]() | | |
-| 9 | [Nov 30<br>Mon]() |  | |
-| 9 | [Dec 3<br>Thu]() | | |
-| 10 | [Dec 7<br>Mon]() |  | |
-| 10 | [Dec 10<br>Thu]() | | |
-| 11 | [Dec 14<br>Mon]() |  | |
-| 11 | [Dec 17<br>Thu]() | | |
-| 12 | [Dec 21<br>Mon]() |  | |
-| 12 | [Dec 24<br>Thu]() | | |
-| 13 | [Dec 28<br>Mon]() |  | |
-| 13 | [Dec 31<br>Thu]() | | |
-| 14 | [Jan 4<br>Mon]() |  | |
-| 14 | [Jan 7<br>Thu]() | | |
-| 15 | [Jan 11<br>Mon]() |  | |
-| 15 | [Jan 18<br>Thu]() | | |
+| 3 | [Oct 19<br>Mon](daily/oct19mon.md) | | |
+| 3 | [Oct 22<br>Thu](daily/oct22thu.md)| [P0 crit](projects/p0.md) | |
+| 4 | [Oct 26<br>Mon](daily/oct26mon.md) | [P1 launch](projects/p1.md)  | |
+| 4 | [Oct 29<br>Thu](daily/oct29thu.md) | | |
+| 5 | [Nov 2<br>Mon](daily/nov2mon.md) |  | |
+| 5 | [Nov 5<br>Thu](daily/nov5thu.md) | | |
+| 6 | [Nov 9<br>Mon](daily/nov9mon.md) |  | |
+| 6 | [Nov 12<br>Thu](daily/nov12thu.md) | | |
+| 7 | [Nov 16<br>Mon](daily/nov16mon.md) |  | |
+| 7 | [Nov 19<br>Thu](daily/nov19thu.md) | | |
+| 8 | [Nov 23<br>Mon](daily/nov23mon.md) |  | |
+| 8 | [Nov 26<br>Thu](daily/nov26thu.md) | | |
+| 9 | [Nov 30<br>Mon](daily/nov30mon.md) |  | |
+| 9 | [Dec 3<br>Thu](daily/dec3thu.md) | | |
+| 10 | [Dec 7<br>Mon](daily/dec7mon.md) |  | |
+| 10 | [Dec 10<br>Thu](daily/dec10thu.md) | | |
+| 11 | [Dec 14<br>Mon](daily/dec14mon.md) |  | |
+| 11 | [Dec 17<br>Thu](daily/dec17thu.md) | | |
+| 12 | [Dec 21<br>Mon](daily/dec21mon.md) |  | |
+| 12 | [Dec 24<br>Thu](daily/dec24thu.md) | | |
+| 13 | [Dec 28<br>Mon](daily/dec28mon.md) |  | |
+| 13 | [Dec 31<br>Thu](daily/dec31thu.md) | | |
+| 14 | [Jan 4<br>Mon](daily/jan4mon.md) |  | |
+| 14 | [Jan 7<br>Thu](daily/jan7thu.md) | | |
+| 15 | [Jan 11<br>Mon](daily/jan11mon.md) |  | |
+| 15 | [Jan 18<br>Thu](daily/jan18thu.md) | | |
 
 
 ## Ethical Rules
