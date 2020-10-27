@@ -62,7 +62,7 @@ Cooper, A. and Reimann, R. and Cronin, D. and Noessel, C. (2014) About Face: The
 | 3 | [Oct 19<br>Mon](daily/oct19mon.md) | | |
 | 3 | [Oct 22<br>Thu](daily/oct22thu.md)| [P0 crit](projects/p0.md) | |
 | 4 | [Oct 26<br>Mon](daily/oct26mon.md) | [P1 launch](projects/p1.md)  | |
-| 5 | [Nov 2<br>Mon](daily/nov2mon.md) |  | [P1 analysis](projects/p1_2_analysis.md) |
+| 5 | [Nov 2<br>Mon](daily/nov2mon.md) |  | [P1 analysis](assignments/p1_2_analysis.md) |
 | 5 | [Nov 5<br>Thu](daily/nov5thu.md) | | |
 | 6 | [Nov 9<br>Mon](daily/nov9mon.md) |  | |
 | 6 | [Nov 12<br>Thu](daily/nov12thu.md) | | |
