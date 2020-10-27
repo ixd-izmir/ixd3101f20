@@ -17,4 +17,4 @@ A starter list of functionalities Calibre provides:
 - Book Preview / Viewing Books
 - Grid View
 
-3. Details and examples for the homework are listed in the presentation (). Upload your deliverables as a pdf file to **phase2-analysis** folder before the next class Nov 2, Monday 13:30. 
+3. Details and examples for the homework are listed in the presentation [http://www.dan.sv.it/teaching/ixd3101f20/ixd07/index.htm](http://www.dan.sv.it/teaching/ixd3101f20/ixd07/index.htm). Upload your deliverables as a pdf file to **phase2-analysis** folder before the next class Nov 2, Monday 13:30. 
