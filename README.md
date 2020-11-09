@@ -62,10 +62,10 @@ Cooper, A. and Reimann, R. and Cronin, D. and Noessel, C. (2014) About Face: The
 | 3 | [Oct 19<br>Mon](daily/oct19mon.md) | | |
 | 3 | [Oct 22<br>Thu](daily/oct22thu.md)| [P0 crit](projects/p0.md) | |
 | 4 | [Oct 26<br>Mon](daily/oct26mon.md) | [P1 launch](projects/p1.md)  | |
-| 5 | Nov 2<br>Mon | Lesson suspended  | Designing: [P1: Analysis](assignments/p1_2_analysis.md), Reading: [P1: Method](https://medium.com/intro-to-digital-product-design/lecture-2-accidentally-uploaded-from-phone-c23ef4aca05c)  |
+| 5 | Nov 2<br>Mon | Lesson suspended  | Designing: [P1: Analysis](assignments/p1_21_analysis.md), Reading: [P1: Method](https://medium.com/intro-to-digital-product-design/lecture-2-accidentally-uploaded-from-phone-c23ef4aca05c)  |
 | 5 | Nov 5<br>Thu | Lesson suspended | |
-| 6 | [Nov 9<br>Mon](daily/nov9mon.md) |  | |
-| 6 | [Nov 12<br>Thu](daily/nov12thu.md) | | |
+| 6 | [Nov 9<br>Mon](daily/nov9mon.md) | Review (wirefram, flowcharts, use cases, task analysis), Introduciton to heuristics | |
+| 6 | [Nov 12<br>Thu](daily/nov12thu.md) | | Designing: [P1: Analysis](assignments/p1_22_analysis.md), Reading: P1: Heuristics [Enhancing the explanatory power of usability heuristics](https://drive.google.com/file/d/1YGptiigwn0xwJ54kuNiXkXpp3DlrU9pi/view?usp=sharing), [10 tips on how to conduct a perfect Heuristic evaluation](https://medium.muz.li/10-tips-on-how-to-conduct-a-perfect-heuristic-evaluation-ae5f8f4b3257),[LastPass password manager: usability review](https://medium.com/@julie.shukla/lastpass-password-manager-usability-review-460b6060b713),[Guidelines For Designing User Interface Software](http://hcibib.org/sam/contents.html) |
 | 7 | [Nov 16<br>Mon](daily/nov16mon.md) |  | |
 | 7 | [Nov 19<br>Thu](daily/nov19thu.md) | | |
 | 8 | [Nov 23<br>Mon](daily/nov23mon.md) |  | |
