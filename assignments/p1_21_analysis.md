@@ -1,5 +1,5 @@
 
-# P1 Phase 2: Analysis 
+# P1 Phase 2.1: Analysis 
 
 1. Improve your work from Phase 1: Research [https://github.com/ixd-izmir/ixd3101f20/blob/master/daily/oct26mon.md](https://github.com/ixd-izmir/ixd3101f20/blob/master/daily/oct26mon.md) 
 
