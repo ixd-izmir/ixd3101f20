@@ -69,11 +69,11 @@ Cooper, A. and Reimann, R. and Cronin, D. and Noessel, C. (2014) About Face: The
 | 7 | [Nov 16<br>Mon](daily/nov16mon.md) |  | |
 | 7 | [Nov 19<br>Thu](daily/nov19thu.md) | | |
 | 8 | [Nov 23<br>Mon](daily/nov23mon.md) |  | |
-| 8 | [Nov 26<br>Thu](daily/nov26thu.md) | | |
-| 9 | [Nov 30<br>Mon](daily/nov30mon.md) |  | |
-| 9 | [Dec 3<br>Thu](daily/dec3thu.md) | | |
-| 10 | [Dec 7<br>Mon](daily/dec7mon.md) |  | |
-| 10 | [Dec 10<br>Thu](daily/dec10thu.md) | | |
+| 8 | [Nov 26<br>Thu](daily/nov26thu.md) | P1 Review: Analysis & Brief | |
+| 9 | [Nov 30<br>Mon](daily/nov30mon.md) | P1 Review: Redesign | |
+| 9 | [Dec 3<br>Thu](daily/dec3thu.md) | P1 Crit | |
+| 10 | [Dec 7<br>Mon](daily/dec7mon.md) | Workshop | |
+| 10 | [Dec 10<br>Thu](daily/dec10thu.md) | Workshop | |
 | 11 | [Dec 14<br>Mon](daily/dec14mon.md) |  | |
 | 11 | [Dec 17<br>Thu](daily/dec17thu.md) | | |
 | 12 | [Dec 21<br>Mon](daily/dec21mon.md) |  | |
