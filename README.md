@@ -75,7 +75,7 @@ Cooper, A. and Reimann, R. and Cronin, D. and Noessel, C. (2014) About Face: The
 | 10 | [Dec 7<br>Mon](daily/dec7mon.md) | Workshop: Designing Objects that Make Us Deliriously Happy - session #1 | |
 | 10 | [Dec 9<br>Wed](daily/dec7mon.md) |  Workshop: Designing Objects that Make Us Deliriously Happy - session #2 | |
 | 10 | [Dec 10<br>Thu](daily/dec10thu.md) |  Workshop: Designing Objects that Make Us Deliriously Happy - session #3 | |
-| 11 | [Dec 14<br>Mon](daily/dec14mon.md) |  | |
+| 11 | [Dec 14<br>Mon](daily/dec14mon.md) | [P2 launch](projects/p2.md) | |
 | 11 | [Dec 17<br>Thu](daily/dec17thu.md) | | |
 | 12 | [Dec 21<br>Mon](daily/dec21mon.md) |  | |
 | 12 | [Dec 24<br>Thu](daily/dec24thu.md) | | |
