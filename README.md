@@ -81,10 +81,11 @@ Cooper, A. and Reimann, R. and Cronin, D. and Noessel, C. (2014) About Face: The
 | 12 | [Dec 24<br>Thu](daily/dec24thu.md) | | |
 | 13 | [Dec 28<br>Mon](daily/dec28mon.md) |  | |
 | 13 | [Dec 31<br>Thu](daily/dec31thu.md) | | |
-| 14 | [Jan 4<br>Mon](daily/jan4mon.md) |  | |
-| 14 | [Jan 7<br>Thu](daily/jan7thu.md) | | |
-| 15 | [Jan 11<br>Mon](daily/jan11mon.md) |  | |
-| 15 | [Jan 18<br>Thu](daily/jan18thu.md) | | |
+| 14 | [Jan 4<br>Mon](daily/jan4mon.md) | | |
+| 14 | [Jan 7<br>Thu](daily/jan7thu.md) | P2 Mid-crit w/Vestel | |
+| 15 | [Jan 11<br>Mon](daily/jan11mon.md) | | |
+| 15 | [Jan 19<br>Tue](daily/jan19tue.md) | | |
+| 16 | [Feb 4<br>Thu](daily/feb4thu.md) | Final | |
 
 
 ## Ethical Rules
